@@ -7,4 +7,4 @@ A tiny, dependency-free, pluggable in-memory rate limiter middleware for Express
 ## 🚀 Installation
 
 ```bash
-npm install tiny-rate-limiter
+npm install micro-rate-limiter
