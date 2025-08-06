@@ -1,0 +1,16 @@
+{
+  "name": "micro-rate-limiter",
+  "version": "1.0.2",
+  "description": "A tiny in-memory rate limiter middleware for Express/Node.js",
+  "main": "index.js",
+  "keywords": ["rate limiter", "express middleware", "security", "dos", "throttle"],
+  "author": "Mirin Mano M",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs"
+}
